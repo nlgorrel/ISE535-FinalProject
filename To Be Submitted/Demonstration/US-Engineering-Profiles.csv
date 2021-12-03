@@ -1,0 +1,365 @@
+,Year,Data Type,Institution,Degree Name,Discipline Name,Non Res Alien M,Non Res Alien F,Unknown M,Unknown F,Hispanic M,Hispanic F,American Indian M,American Indian F,Asian American M,Asian American F,African American M,African American F,Hawaiian/pac.isl M,Hawaiian/pac.isl F,White M,White F,Multiracial M,Multiracial F,Total
+0,2019,DegreesAwarded,Air Force Institute of Technology,Aeronautical Engineering (M.S),Aerospace Engineering,0,0,2,0,2,0,0,0,0,0,0,0,0,0,24,2,0,1,31
+1,2019,DegreesAwarded,Air Force Institute of Technology,Applied Physics (M.S),Engr. Science and Engr. Physics,0,0,0,0,0,0,0,0,2,0,0,0,0,0,6,0,1,1,10
+2,2019,DegreesAwarded,Air Force Institute of Technology,Applied Systems Engineering (M.E),Industrial/Manufacturing/Systems Engineering,0,0,1,0,2,0,0,0,1,0,0,0,0,0,6,0,1,1,12
+3,2019,DegreesAwarded,Air Force Institute of Technology,Astronautical Engineering (M.S),Aerospace Engineering,0,0,1,0,1,0,0,0,0,0,0,0,0,0,9,2,1,0,14
+4,2019,DegreesAwarded,Air Force Institute of Technology,Atmospheric Sciences (M.S),Engr. Science and Engr. Physics,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,5
+5,2019,DegreesAwarded,Air Force Institute of Technology,Computer Engineering (M.S),Computer Engineering,0,0,1,0,2,0,0,0,0,0,0,0,0,0,3,0,0,0,6
+6,2019,DegreesAwarded,Air Force Institute of Technology,Computer Science (M.S),Computer Science (inside engineering),0,0,0,0,0,0,0,0,2,0,0,0,0,0,5,0,1,0,8
+7,2019,DegreesAwarded,Air Force Institute of Technology,Cyber Operations (M.S),Computer Science (inside engineering),0,0,1,0,3,0,0,0,1,0,2,0,0,0,4,0,1,0,12
+8,2019,DegreesAwarded,Air Force Institute of Technology,Electrical Engineering (M.S),Electrical Engineering,1,1,1,1,4,1,0,0,1,0,3,0,0,0,19,0,2,0,34
+9,2019,DegreesAwarded,Air Force Institute of Technology,Engineering Management (M.S),Engineering Management,2,0,3,0,1,0,0,0,0,1,1,0,1,0,10,3,0,0,22
+10,2019,DegreesAwarded,Air Force Institute of Technology,Environmental Engineering and Science (M.S),Environmental Engineering,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,3
+11,2019,DegreesAwarded,Air Force Institute of Technology,Industrial Hygiene (M.S),Other Engineering Disciplines,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+12,2019,DegreesAwarded,Air Force Institute of Technology,Materials Science (M.S),Aerospace Engineering,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,4
+13,2019,DegreesAwarded,Air Force Institute of Technology,Nuclear Engineering (M.S),Nuclear Engineering,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,4
+14,2019,DegreesAwarded,Air Force Institute of Technology,Operations Research (M.S),Other Engineering Disciplines,0,0,3,1,0,0,0,0,1,0,0,0,0,0,17,6,0,1,29
+15,2019,DegreesAwarded,Air Force Institute of Technology,Optical Science and Engineering (M.S),Engr. Science and Engr. Physics,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+16,2019,DegreesAwarded,Air Force Institute of Technology,Space Systems (M.S),Aerospace Engineering,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+17,2019,DegreesAwarded,Air Force Institute of Technology,Systems Engineering (M.S),Industrial/Manufacturing/Systems Engineering,0,0,0,0,1,0,0,0,0,0,0,0,0,0,7,0,0,0,8
+18,2019,DegreesAwarded,Air Force Institute of Technology,Aeronautical Engineering (Ph.D.),Aerospace Engineering,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2
+19,2019,DegreesAwarded,Air Force Institute of Technology,Applied Physics (Ph.D.),Engr. Science and Engr. Physics,0,0,0,1,0,0,0,0,0,0,0,0,0,0,4,1,0,1,7
+20,2019,DegreesAwarded,Air Force Institute of Technology,Astronautical Engineering (Ph.D.),Aerospace Engineering,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+21,2019,DegreesAwarded,Air Force Institute of Technology,Computer Science (Ph.D.),Computer Science (inside engineering),0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,2
+22,2019,DegreesAwarded,Air Force Institute of Technology,Electrical Engineering (Ph.D.),Electrical Engineering,0,0,0,0,1,0,0,0,0,0,0,0,0,0,3,0,0,0,4
+23,2019,DegreesAwarded,Air Force Institute of Technology,Materials Science (Ph.D.),Aerospace Engineering,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+24,2019,DegreesAwarded,Air Force Institute of Technology,Nuclear Engineering (Ph.D.),Nuclear Engineering,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,0,0,5
+25,2019,DegreesAwarded,Air Force Institute of Technology,Operations Research (Ph.D.),Other Engineering Disciplines,0,0,0,0,1,0,0,0,0,0,0,0,0,0,3,0,0,0,4
+26,2019,DegreesAwarded,Alabama A & M University,Civil Engineering,Civil Engineering,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,6
+27,2019,DegreesAwarded,Alabama A & M University,Electrical Engineering,Electrical Engineering,2,0,1,0,0,0,0,0,0,0,22,8,1,0,0,0,0,0,34
+28,2019,DegreesAwarded,Alabama A & M University,Mechanical Engineering,Mechanical Engineering,0,0,1,0,0,0,0,0,0,0,19,7,0,0,0,0,0,0,27
+29,2019,DegreesAwarded,Alabama A & M University,Other Engineering,Other Engineering Disciplines,0,0,1,0,0,0,0,0,0,0,5,3,0,0,0,0,0,0,9
+30,2019,DegreesAwarded,"Alfred University, NY State College of Ceramics",Biomaterials Engineering (B.S.),Other Engineering Disciplines,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,4
+31,2019,DegreesAwarded,"Alfred University, NY State College of Ceramics",Ceramic Engineering (B.S.),Other Engineering Disciplines,0,0,2,1,0,1,0,0,1,1,0,0,0,0,7,3,0,0,16
+32,2019,DegreesAwarded,"Alfred University, NY State College of Ceramics",Glass Engineering Science (B.S.),Other Engineering Disciplines,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,3
+33,2019,DegreesAwarded,"Alfred University, NY State College of Ceramics",Materials Science & Engineering (B.S.),Other Engineering Disciplines,0,1,1,0,1,0,0,0,0,0,0,0,0,0,9,4,0,0,16
+34,2019,DegreesAwarded,"Alfred University, NY State College of Ceramics",Mechanical Engineering (B.S.),Other Engineering Disciplines,0,0,5,0,5,0,0,0,1,0,0,0,0,0,25,0,0,0,36
+35,2019,DegreesAwarded,"Alfred University, NY State College of Ceramics",Renewable Energy Engineering,Other Engineering Disciplines,0,0,1,0,0,0,0,0,0,0,0,0,0,0,7,2,0,0,10
+36,2019,DegreesAwarded,"Alfred University, NY State College of Ceramics",Ceramic Engineering (M.S.),Metallurgical and Matrls. Engineering,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,2
+37,2019,DegreesAwarded,"Alfred University, NY State College of Ceramics",Electrical Engineering (M.S.),Electrical Engineering,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,2
+38,2019,DegreesAwarded,"Alfred University, NY State College of Ceramics",Glass Science (M.S.),Metallurgical and Matrls. Engineering,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+39,2019,DegreesAwarded,"Alfred University, NY State College of Ceramics",Materials Science & Engineering (M.S.),Metallurgical and Matrls. Engineering,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,2
+40,2019,DegreesAwarded,"Alfred University, NY State College of Ceramics",Mechanical Engineering (M.S.),Mechanical Engineering,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+41,2019,DegreesAwarded,"Alfred University, NY State College of Ceramics",Ceramics (Ph.D.),Metallurgical and Matrls. Engineering,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2
+42,2019,DegreesAwarded,"Alfred University, NY State College of Ceramics",Glass Science (Ph.D.),Metallurgical and Matrls. Engineering,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+43,2019,DegreesAwarded,"Alfred University, NY State College of Ceramics",Materials Science & Engineering (Ph.D),Metallurgical and Matrls. Engineering,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+44,2020,DegreesAwarded,Abilene Christian University,Computer Science (outside engineering),Computer Science (outside engineering),0,0,0,0,1,0,0,0,0,0,0,0,0,0,8,2,0,0,11
+45,2020,DegreesAwarded,Abilene Christian University,Engineering (General),Engineering (General),1,2,0,0,3,0,0,0,0,1,1,0,0,0,7,1,1,0,17
+46,2020,DegreesAwarded,Air Force Institute of Technology,Aeronautical Engineering (M.S),Aerospace Engineering,0,0,0,0,1,0,0,0,1,0,0,0,0,0,17,4,0,0,23
+47,2020,DegreesAwarded,Air Force Institute of Technology,Applied Mathematics (M.S),Other Engineering Disciplines,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+48,2020,DegreesAwarded,Air Force Institute of Technology,Applied Physics (M.S),Engr. Science and Engr. Physics,0,0,0,0,2,0,0,0,0,0,0,0,0,0,9,1,0,1,13
+49,2020,DegreesAwarded,Air Force Institute of Technology,Applied Systems Engineering (M.E),Industrial/Manufacturing/Systems Engineering,0,0,0,1,3,0,0,0,3,0,0,0,0,0,8,4,1,0,20
+50,2020,DegreesAwarded,Air Force Institute of Technology,Astronautical Engineering (M.S),Aerospace Engineering,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,6
+51,2020,DegreesAwarded,Air Force Institute of Technology,Atmospheric Sciences (M.S),Engr. Science and Engr. Physics,0,0,1,0,0,0,0,0,0,0,1,0,0,0,3,3,0,0,8
+52,2020,DegreesAwarded,Air Force Institute of Technology,Computer Engineering (M.S),Computer Engineering,1,0,2,0,1,0,0,0,1,0,0,0,0,0,2,0,0,0,7
+53,2020,DegreesAwarded,Air Force Institute of Technology,Computer Science (M.S),Computer Science (inside engineering),0,0,1,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,8
+54,2020,DegreesAwarded,Air Force Institute of Technology,Cost Analysis (M.S),Other Engineering Disciplines,0,0,1,0,0,0,0,0,0,0,0,0,0,0,10,1,1,0,13
+55,2020,DegreesAwarded,Air Force Institute of Technology,Cyber Operations (M.S),Computer Science (inside engineering),0,0,1,0,1,0,0,0,2,0,1,0,0,0,10,1,1,0,17
+56,2020,DegreesAwarded,Air Force Institute of Technology,Electrical Engineering (M.S),Electrical Engineering,2,0,2,0,2,0,0,0,2,1,1,1,0,0,26,1,0,0,38
+57,2020,DegreesAwarded,Air Force Institute of Technology,Engineering Management (M.S),Engineering Management,0,0,2,0,1,0,0,0,1,0,0,0,1,0,12,5,0,1,23
+58,2020,DegreesAwarded,Air Force Institute of Technology,Environmental Engineering and Science (M.S),Environmental Engineering,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,5
+59,2020,DegreesAwarded,Air Force Institute of Technology,Industrial Hygiene (M.S),Other Engineering Disciplines,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,0,0,5
+60,2020,DegreesAwarded,Air Force Institute of Technology,Logistics (M.S.),Other Engineering Disciplines,0,0,1,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,6
+61,2020,DegreesAwarded,Air Force Institute of Technology,Logistics and Supply Chain Management (M.S.),Other Engineering Disciplines,5,0,0,0,0,0,1,0,0,0,0,0,0,0,5,1,0,0,12
+62,2020,DegreesAwarded,Air Force Institute of Technology,Materials Science (M.S),Aerospace Engineering,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2
+63,2020,DegreesAwarded,Air Force Institute of Technology,Nuclear Engineering (M.S),Nuclear Engineering,0,0,1,0,1,0,0,0,1,0,0,0,0,0,9,1,0,0,13
+64,2020,DegreesAwarded,Air Force Institute of Technology,Operations Management (M.S),Other Engineering Disciplines,0,0,1,0,1,0,0,0,0,0,0,0,0,0,12,2,0,0,16
+65,2020,DegreesAwarded,Air Force Institute of Technology,Operations Research (M.S),Other Engineering Disciplines,0,0,1,1,5,0,0,0,2,0,1,0,0,0,16,2,1,0,29
+66,2020,DegreesAwarded,Air Force Institute of Technology,Optical Science and Engineering (M.S),Engr. Science and Engr. Physics,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+67,2020,DegreesAwarded,Air Force Institute of Technology,Space Systems (M.S),Aerospace Engineering,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2
+68,2020,DegreesAwarded,Air Force Institute of Technology,Systems Engineering (M.S),Industrial/Manufacturing/Systems Engineering,1,0,2,1,0,0,0,0,0,0,0,0,0,0,10,2,0,0,16
+69,2020,DegreesAwarded,Air Force Institute of Technology,Aeronautical Engineering (Ph.D.),Aerospace Engineering,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,3
+70,2020,DegreesAwarded,Air Force Institute of Technology,Computer Engineering (Ph.D.),Computer Engineering,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+71,2020,DegreesAwarded,Air Force Institute of Technology,Computer Science (Ph.D.),Computer Science (inside engineering),0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+72,2020,DegreesAwarded,Air Force Institute of Technology,Electrical Engineering (Ph.D.),Electrical Engineering,0,0,1,0,0,0,0,0,2,0,0,0,0,0,6,0,0,0,9
+73,2020,DegreesAwarded,Air Force Institute of Technology,Logistics (Ph.D.),Other Engineering Disciplines,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2
+74,2020,DegreesAwarded,Air Force Institute of Technology,Nuclear Engineering (Ph.D.),Nuclear Engineering,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2
+75,2020,DegreesAwarded,Air Force Institute of Technology,Operations Research (Ph.D.),Other Engineering Disciplines,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+76,2020,DegreesAwarded,Air Force Institute of Technology,Systems Engineering (Ph.D.),Industrial/Manufacturing/Systems Engineering,0,0,1,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,4
+77,2020,DegreesAwarded,Alabama A & M University,Civil Engineering,Civil Engineering,0,1,0,0,0,0,0,0,0,0,8,8,0,0,0,0,1,0,18
+78,2020,DegreesAwarded,Alabama A & M University,Construction Engineering Technology,Construction Engineering Technology,0,0,0,0,0,0,0,0,0,0,7,2,0,0,0,0,0,0,9
+79,2020,DegreesAwarded,Alabama A & M University,Electrical Engineering,Electrical Engineering,0,0,1,1,0,1,0,0,0,0,21,9,0,0,0,0,0,0,33
+80,2020,DegreesAwarded,Alabama A & M University,Mechanical Engineering,Mechanical Engineering,0,0,1,0,1,0,0,0,0,0,24,14,0,0,0,1,0,0,41
+81,2020,DegreesAwarded,Alabama A & M University,Other Engineering,Other Engineering Disciplines,1,0,2,1,0,0,0,0,0,0,13,13,0,0,0,0,0,0,30
+82,2020,DegreesAwarded,Alfred University,Biomedical Engineering,Biomedical Engineering,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,3,0,0,7
+83,2020,DegreesAwarded,Alfred University,Mechanical Engineering,Mechanical Engineering,1,0,3,3,3,0,0,0,2,0,2,0,0,0,36,3,0,0,53
+84,2020,DegreesAwarded,Alfred University,Metallurgical and Matrls. Engineering,Metallurgical and Matrls. Engineering,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,3,0,0,9
+85,2020,DegreesAwarded,Alfred University,Other Engineering,Other Engineering Disciplines,0,0,0,1,1,0,0,0,1,1,0,0,0,0,18,8,1,0,31
+86,2020,DegreesAwarded,Alfred University,Biomedical Engineering,Biomedical Engineering,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+87,2020,DegreesAwarded,Alfred University,Electrical Engineering,Electrical Engineering,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+88,2020,DegreesAwarded,Alfred University,Mechanical Engineering,Mechanical Engineering,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2
+89,2020,DegreesAwarded,Alfred University,Metallurgical and Matrls. Engineering,Metallurgical and Matrls. Engineering,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,3
+90,2020,DegreesAwarded,Alfred University,Other Engineering,Other Engineering Disciplines,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,2
+91,2020,DegreesAwarded,Alfred University,Other Engineering,Other Engineering Disciplines,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+92,2020,DegreesAwarded,"Alfred University, NY State College of Ceramics",Biomaterials Engineering (M.S.),Biomedical Engineering,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+93,2020,DegreesAwarded,"Alfred University, NY State College of Ceramics",Ceramic Engineering (M.S.),Metallurgical and Matrls. Engineering,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,2
+94,2020,DegreesAwarded,"Alfred University, NY State College of Ceramics",Electrical Engineering (M.S.),Electrical Engineering,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+95,2020,DegreesAwarded,"Alfred University, NY State College of Ceramics",Materials Science & Engineering (M.S.),Metallurgical and Matrls. Engineering,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,3
+96,2020,DegreesAwarded,"Alfred University, NY State College of Ceramics",Mechanical Engineering (M.S.),Mechanical Engineering,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2
+97,2020,DegreesAwarded,"Alfred University, NY State College of Ceramics",Ceramics (Ph.D.),Metallurgical and Matrls. Engineering,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+98,2019,Enrollment,Abilene Christian University,Computer Engineering (B.S.),Other Engineering Disciplines,0,0,2,0,0,0,0,0,2,0,57,16,0,0,3,0,0,0,80
+99,2019,Enrollment,Abilene Christian University,Computer Science (B.S.),Other Engineering Disciplines,0,0,4,0,0,0,0,0,0,0,89,34,0,0,3,1,0,0,131
+100,2019,Enrollment,Abilene Christian University,Economics (B.S.),Other Engineering Disciplines,0,0,0,0,0,0,0,0,0,0,4,0,0,0,1,0,0,0,5
+101,2019,Enrollment,Abilene Christian University,Electrical and Electronics Engineering Technology,Other Eng. Technology Disciplines,0,0,5,0,0,0,0,0,0,0,45,7,0,0,2,0,0,0,59
+102,2019,Enrollment,Abilene Christian University,Information and Logistics Technology,Other Eng. Technology Disciplines,0,0,3,0,0,0,0,0,0,0,31,13,0,0,0,0,0,0,47
+103,2019,Enrollment,Abilene Christian University,Manufacturing Engineering (B.S.),Other Engineering Disciplines,0,0,3,0,0,0,0,0,1,1,28,3,0,0,3,0,0,0,39
+104,2019,Enrollment,Abilene Christian University,Mathematics (B.S.),Other Engineering Disciplines,0,0,0,0,0,0,0,0,1,0,6,19,0,0,1,3,0,0,30
+105,2019,Enrollment,Abilene Christian University,Mechanical Engineering Technology,Other Eng. Technology Disciplines,0,0,13,0,1,0,0,0,1,0,68,26,0,0,6,0,0,0,115
+106,2019,Enrollment,Air Force Institute of Technology,Aeronautical Engineering (M.S),Aerospace Engineering,0,0,1,0,1,1,0,0,2,0,0,0,0,0,30,3,0,0,38
+107,2019,Enrollment,Air Force Institute of Technology,Applied Physics (M.S),Engr. Science and Engr. Physics,0,0,2,0,3,0,0,0,1,0,0,0,0,0,20,3,0,1,30
+108,2019,Enrollment,Air Force Institute of Technology,Applied Systems Engineering (M.E),Industrial/Manufacturing/Systems Engineering,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+109,2019,Enrollment,Air Force Institute of Technology,Astronautical Engineering (M.S),Aerospace Engineering,0,0,0,0,0,0,0,0,0,0,0,1,0,0,7,1,1,0,10
+110,2019,Enrollment,Air Force Institute of Technology,Atmospheric Sciences (M.S),Engr. Science and Engr. Physics,0,0,1,0,1,0,0,0,0,0,1,0,0,0,5,4,0,0,12
+111,2019,Enrollment,Air Force Institute of Technology,Computer Engineering (M.S),Computer Engineering,1,0,3,0,1,0,0,0,1,0,0,0,0,0,5,0,0,0,11
+112,2019,Enrollment,Air Force Institute of Technology,Computer Science (M.S),Computer Science (inside engineering),0,0,5,0,1,0,0,0,1,0,2,0,0,0,22,2,1,0,34
+113,2019,Enrollment,Air Force Institute of Technology,Cyber Operations (M.S),Computer Science (inside engineering),0,0,1,0,1,1,0,0,3,0,1,0,0,0,15,3,1,0,26
+114,2019,Enrollment,Air Force Institute of Technology,Electrical Engineering (M.S),Electrical Engineering,4,0,2,1,2,0,0,0,5,1,3,2,0,0,45,4,1,0,70
+115,2019,Enrollment,Air Force Institute of Technology,Engineering Management (M.S),Engineering Management,1,0,3,0,2,0,0,0,1,0,1,0,1,0,32,9,1,1,52
+116,2019,Enrollment,Air Force Institute of Technology,Environmental Engineering and Science (M.S),Environmental Engineering,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,8
+117,2019,Enrollment,Air Force Institute of Technology,Industrial Hygiene (M.S),Other Engineering Disciplines,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2
+118,2019,Enrollment,Air Force Institute of Technology,Materials Science (M.S),Aerospace Engineering,0,0,0,0,0,0,0,0,1,0,0,0,0,0,3,1,0,0,5
+119,2019,Enrollment,Air Force Institute of Technology,Nuclear Engineering (M.S),Nuclear Engineering,0,0,1,0,1,0,0,0,1,0,0,0,0,0,18,0,0,0,21
+120,2019,Enrollment,Air Force Institute of Technology,Operations Research (M.S),Other Engineering Disciplines,0,0,2,1,9,1,0,0,3,1,4,0,0,1,29,6,2,0,59
+121,2019,Enrollment,Air Force Institute of Technology,Optical Science and Engineering (M.S),Engr. Science and Engr. Physics,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,2
+122,2019,Enrollment,Air Force Institute of Technology,Space Systems (M.S),Aerospace Engineering,1,0,1,0,0,0,0,0,0,0,0,1,0,0,10,2,0,0,15
+123,2019,Enrollment,Air Force Institute of Technology,Systems Engineering (M.S),Industrial/Manufacturing/Systems Engineering,1,0,1,1,1,0,0,0,0,1,1,0,0,0,17,4,1,1,29
+124,2019,Enrollment,Air Force Institute of Technology,Aeronautical Engineering (Ph.D.),Aerospace Engineering,0,0,2,0,1,0,0,0,0,0,0,0,0,0,8,0,0,0,11
+125,2019,Enrollment,Air Force Institute of Technology,Applied Physics (Ph.D.),Engr. Science and Engr. Physics,0,0,0,0,1,0,0,0,0,0,0,0,0,0,5,1,0,1,8
+126,2019,Enrollment,Air Force Institute of Technology,Astronautical Engineering (Ph.D.),Aerospace Engineering,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,5
+127,2019,Enrollment,Air Force Institute of Technology,Computer Engineering (Ph.D.),Computer Engineering,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,3
+128,2019,Enrollment,Air Force Institute of Technology,Computer Science (Ph.D.),Computer Science (inside engineering),0,0,0,0,1,0,0,0,1,0,0,0,0,0,5,0,0,0,7
+129,2019,Enrollment,Air Force Institute of Technology,Electrical Engineering (Ph.D.),Electrical Engineering,0,0,4,0,0,0,0,0,3,0,0,0,0,0,16,0,1,1,25
+130,2019,Enrollment,Air Force Institute of Technology,Materials Science (Ph.D.),Aerospace Engineering,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+131,2019,Enrollment,Air Force Institute of Technology,Nuclear Engineering (Ph.D.),Nuclear Engineering,0,0,1,0,1,0,0,0,0,0,1,0,0,0,8,1,0,0,12
+132,2019,Enrollment,Air Force Institute of Technology,Operations Research (Ph.D.),Other Engineering Disciplines,1,0,0,0,1,0,0,0,0,0,1,0,0,0,10,0,0,0,13
+133,2019,Enrollment,Air Force Institute of Technology,Optical Science and Engineering (Ph.D.),Engr. Science and Engr. Physics,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+134,2019,Enrollment,Air Force Institute of Technology,Space Systems (Ph.D.),Aerospace Engineering,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,3
+135,2019,Enrollment,Air Force Institute of Technology,Systems Engineering (Ph.D.),Industrial/Manufacturing/Systems Engineering,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,7
+136,2019,Enrollment,"Alfred University, NY State College of Ceramics",Biomaterials Engineering (B.S.),Other Engineering Disciplines,0,0,0,1,2,1,0,0,0,0,0,1,0,0,11,14,0,0,30
+137,2019,Enrollment,"Alfred University, NY State College of Ceramics",Ceramic Engineering (B.S.),Other Engineering Disciplines,0,0,3,1,3,0,0,0,0,0,0,0,0,0,37,16,0,1,61
+138,2019,Enrollment,"Alfred University, NY State College of Ceramics",Glass Engineering Science (B.S.),Other Engineering Disciplines,0,0,1,0,0,1,0,0,1,1,0,0,0,0,12,6,1,0,23
+139,2019,Enrollment,"Alfred University, NY State College of Ceramics",Materials Science & Engineering (B.S.),Other Engineering Disciplines,0,0,1,0,0,0,0,0,0,0,0,1,0,0,25,8,1,0,36
+140,2019,Enrollment,"Alfred University, NY State College of Ceramics",Mechanical Engineering (B.S.),Other Engineering Disciplines,40,2,9,4,9,1,0,0,6,0,10,1,0,0,100,11,0,0,193
+141,2019,Enrollment,"Alfred University, NY State College of Ceramics",Renewable Energy Engineering,Other Engineering Disciplines,22,1,2,0,0,1,0,0,1,0,2,0,0,0,10,5,0,0,44
+142,2019,Enrollment,"Alfred University, NY State College of Ceramics",Undecided,Engineering (General),0,0,3,1,1,0,0,0,0,0,3,0,0,0,12,2,0,0,22
+143,2019,Enrollment,"Alfred University, NY State College of Ceramics",Biomaterials Engineering (M.S.),Biomedical Engineering,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+144,2019,Enrollment,"Alfred University, NY State College of Ceramics",Ceramic Engineering (M.S.),Metallurgical and Matrls. Engineering,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,5
+145,2019,Enrollment,"Alfred University, NY State College of Ceramics",Electrical Engineering (M.S.),Electrical Engineering,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+146,2019,Enrollment,"Alfred University, NY State College of Ceramics",Glass Science (M.S.),Metallurgical and Matrls. Engineering,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+147,2019,Enrollment,"Alfred University, NY State College of Ceramics",Materials Science & Engineering (M.S.),Metallurgical and Matrls. Engineering,1,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,6
+148,2019,Enrollment,"Alfred University, NY State College of Ceramics",Mechanical Engineering (M.S.),Mechanical Engineering,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+149,2019,Enrollment,"Alfred University, NY State College of Ceramics",Ceramics (Ph.D.),Metallurgical and Matrls. Engineering,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,3
+150,2019,Enrollment,"Alfred University, NY State College of Ceramics",Glass Science (Ph.D.),Metallurgical and Matrls. Engineering,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2
+151,2019,Enrollment,"Alfred University, NY State College of Ceramics",Materials Science & Engineering (Ph.D),Metallurgical and Matrls. Engineering,2,3,0,0,0,0,0,0,0,0,0,0,0,0,3,2,0,0,10
+152,2019,Enrollment,Arizona State University,"Aeronautical Management Technology (B.S., B.A.S.)",Aerospace Engineering Technology,24,3,2,1,76,13,1,1,21,6,22,3,3,0,230,38,30,2,476
+153,2019,Enrollment,Arizona State University,Aerospace Engineering (B.S.E.),Aerospace Engineering,35,5,7,1,155,28,7,3,55,13,16,4,0,1,339,63,35,8,775
+154,2019,Enrollment,Arizona State University,Biomedical Engineering (B.S.E.),Biomedical Engineering,12,12,5,1,83,88,3,3,54,50,13,11,1,1,152,147,17,22,675
+155,2019,Enrollment,Arizona State University,Chemical Engineering (B.S.E.),Chemical Engineering,66,8,2,1,65,42,2,1,30,34,9,9,0,0,212,101,14,11,607
+156,2019,Enrollment,Arizona State University,Civil Engineering (B.S.E.),Civil/Environmental Engineering,85,19,5,2,117,52,9,4,23,11,17,8,0,2,212,69,20,6,661
+157,2019,Enrollment,Arizona State University,Computer Science (B.S.),Computer Science (inside engineering),265,39,33,2,389,75,15,3,495,127,61,16,3,1,953,176,105,32,2790
+158,2019,Enrollment,Arizona State University,Computer Systems Engineering (B.S.E.),Computer Engineering,33,3,4,0,78,11,5,0,51,11,10,7,1,1,160,14,18,4,411
+159,2019,Enrollment,Arizona State University,Construction Engineering (B.S.E.),Civil Engineering,15,0,1,0,22,5,1,0,0,3,1,0,0,0,30,2,0,0,80
+160,2019,Enrollment,Arizona State University,Construction Management and Technology (B.S.),Construction Engineering Technology,3,1,3,0,104,18,9,3,10,1,3,1,0,0,211,19,9,1,396
+161,2019,Enrollment,Arizona State University,Electrical Engineering (B.S.E.),Electrical Engineering,112,6,11,1,190,21,9,5,90,17,31,2,4,0,493,84,26,12,1114
+162,2019,Enrollment,Arizona State University,Engineering (B.S.E.),Engineering (General),67,5,7,2,185,55,9,2,43,9,27,4,2,2,386,39,28,9,881
+163,2019,Enrollment,Arizona State University,Engineering Management (B.S.E.),Industrial/Manufacturing/Systems Engineering,11,4,1,0,30,17,2,1,12,6,5,4,1,1,125,42,5,7,274
+164,2019,Enrollment,Arizona State University,Environmental & Resource Management (B.S.),Other Eng. Technology Disciplines,2,0,0,0,4,3,2,0,1,1,0,1,0,0,7,9,1,1,32
+165,2019,Enrollment,Arizona State University,Environmental Engineering (B.S.E.),Environmental Engineering,4,1,0,0,17,25,1,2,5,4,1,0,0,0,26,44,2,9,141
+166,2019,Enrollment,Arizona State University,"Graphic Information Technology (B.S., B.A.S.)",Computer Engineering Technology,5,3,1,6,70,74,4,5,23,26,9,18,0,2,144,195,15,21,621
+167,2019,Enrollment,Arizona State University,Human Systems Engineering (B.S.),Other Eng. Technology Disciplines,1,0,1,0,17,7,0,0,4,4,4,3,1,0,14,19,3,1,79
+168,2019,Enrollment,Arizona State University,Industrial Engineering (B.S.E.),Industrial/Manufacturing/Systems Engineering,83,19,1,4,29,19,0,0,21,10,2,2,0,0,65,27,3,6,291
+169,2019,Enrollment,Arizona State University,Informatics (B.S.),Computer Science (inside engineering),4,2,0,0,27,9,1,0,18,5,4,3,0,0,43,14,6,4,140
+170,2019,Enrollment,Arizona State University,Information Technology (B.S.),Computer Engineering Technology,20,2,7,1,112,23,8,2,60,15,48,17,2,3,357,70,27,13,787
+171,2019,Enrollment,Arizona State University,Manufacturing Engineering (B.S.),Industrial/Manufacturing/Systems Engineering,2,1,0,0,3,1,0,0,4,0,2,1,0,0,21,1,4,0,40
+172,2019,Enrollment,Arizona State University,Materials Science and Engineering (B.S.E.),Metallurgical and Matrls. Engineering,13,2,1,1,10,7,3,1,9,5,3,1,0,0,61,16,6,3,142
+173,2019,Enrollment,Arizona State University,Mechanical Engineering (B.S.E.),Mechanical Engineering,107,7,7,3,281,45,10,3,82,26,20,6,2,1,632,96,47,14,1389
+174,2019,Enrollment,Arizona State University,Software Engineering (B.S.),Computer Science (inside engineering),5,3,9,1,68,23,5,1,43,14,19,9,2,0,283,52,21,5,563
+175,2019,Enrollment,Arizona State University,"Technological Entrepreneurship & Management (B.S., B.A.S.)",Industrial/Manufacturing Eng. Tech.,6,3,5,0,32,11,1,2,8,8,9,1,1,0,100,28,13,3,231
+176,2019,Enrollment,Arizona State University,Aeronautical Management Technology (M.S. Tech.),Aerospace Engineering Technology,3,0,0,0,2,0,0,0,0,0,0,0,0,0,3,5,0,0,13
+177,2019,Enrollment,Arizona State University,Aerospace Engineering (M.S.),Aerospace Engineering,16,4,0,0,5,0,0,0,3,0,0,0,0,0,16,2,2,0,48
+178,2019,Enrollment,Arizona State University,Biomedical Engineering (M.S.),Biomedical Engineering,5,16,1,0,5,3,1,0,2,3,1,0,0,0,14,9,3,4,67
+179,2019,Enrollment,Arizona State University,Chemical Engineering (M.S.),Chemical Engineering,21,2,0,0,3,0,0,0,2,1,0,0,0,0,8,6,1,0,44
+180,2019,Enrollment,Arizona State University,"Civil, Environmental and Sustainable Engineering (Civil) (M.S., M.S.E.)",Civil Engineering,19,8,0,0,1,0,0,0,0,0,0,0,0,0,6,1,1,0,36
+181,2019,Enrollment,Arizona State University,"Civil, Environmental and Sustainable Engineering (Env.) (M.S., M.S.E.)",Environmental Engineering,8,4,0,0,1,2,0,0,0,1,0,0,0,0,5,2,0,0,23
+182,2019,Enrollment,Arizona State University,Computer Engineering (M.S.),Computer Engineering,149,70,1,0,3,0,0,0,2,0,0,0,0,0,6,0,4,0,235
+183,2019,Enrollment,Arizona State University,"Computer Science (M.S., M.C.S.)",Computer Science (inside engineering),530,159,1,0,9,0,2,1,18,9,1,0,0,0,30,1,2,2,765
+184,2019,Enrollment,Arizona State University,Construction Engineering (M.S.E.),Civil Engineering,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+185,2019,Enrollment,Arizona State University,Construction Management and Technology (M.S.),Construction Engineering Technology,30,17,0,1,3,0,0,1,2,0,0,1,0,0,9,5,0,2,71
+186,2019,Enrollment,Arizona State University,"Electrical Engineering (M.S., M.S.E.)",Electrical Engineering,201,70,0,1,8,1,1,0,5,2,2,0,0,0,31,3,1,1,327
+187,2019,Enrollment,Arizona State University,"Engineering (M.Eng., M.S.)",Engineering (General),11,2,0,0,4,1,1,0,3,3,3,1,0,0,24,2,2,1,58
+188,2019,Enrollment,Arizona State University,Engineering Science ( M.S.E.),Other Engineering Disciplines,0,0,0,0,2,0,0,0,1,0,1,0,0,0,0,0,0,0,4
+189,2019,Enrollment,Arizona State University,Environmental and Resource Management,Other Eng. Technology Disciplines,7,5,0,0,0,2,0,2,0,0,0,0,0,0,3,5,1,0,25
+190,2019,Enrollment,Arizona State University,Graphic Information technology (M.S.),Computer Engineering Technology,0,0,0,0,2,3,0,0,0,0,0,0,0,0,5,13,0,1,24
+191,2019,Enrollment,Arizona State University,Human Systems Engineering (M.S.),Other Eng. Technology Disciplines,4,5,0,0,1,1,0,0,1,5,0,2,0,0,10,5,0,0,34
+192,2019,Enrollment,Arizona State University,Industrial Engineering (M.S.),Industrial/Manufacturing/Systems Engineering,51,7,0,0,2,0,0,0,1,0,0,0,0,0,3,4,0,0,68
+193,2019,Enrollment,Arizona State University,Information Technology (M.S.),Computer Engineering Technology,32,15,0,0,0,1,0,0,2,1,0,0,0,0,13,0,0,0,64
+194,2019,Enrollment,Arizona State University,Manufacturing Engineering (M.S.),Industrial/Manufacturing/Systems Engineering,13,0,0,0,0,0,0,0,0,1,1,0,0,0,3,0,0,0,18
+195,2019,Enrollment,Arizona State University,Materials Science and Engineering (M.S.),Metallurgical and Matrls. Engineering,13,9,0,0,1,1,0,0,3,1,0,0,0,0,4,2,0,0,34
+196,2019,Enrollment,Arizona State University,Mechanical Engineering (M.S.),Mechanical Engineering,156,12,0,0,6,1,0,0,5,0,0,1,0,0,24,3,0,0,208
+197,2019,Enrollment,Arizona State University,Software Engineering (M.S.),Computer Science (inside engineering),123,43,0,0,0,0,0,0,0,2,0,0,0,0,4,0,0,1,173
+198,2019,Enrollment,Arizona State University,Solar Energy Engineering & Commercialization (P.S.M.),Mechanical Engineering,1,1,0,0,1,0,0,0,2,0,0,0,0,0,2,0,0,0,7
+199,2019,Enrollment,Arizona State University,Sustainable Engineering (M.S.E.),Civil/Environmental Engineering,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+200,2019,Enrollment,Arizona State University,Technological Entrepreneurship & Management (M.S. Tech.),Industrial/Manufacturing Eng. Tech.,5,2,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,10
+201,2019,Enrollment,Arizona State University,Aerospace Engineering (Ph.D.),Aerospace Engineering,5,0,0,0,0,0,0,0,0,0,0,0,0,0,6,1,0,0,12
+202,2019,Enrollment,Arizona State University,Biomedical Engineering (Ph.D.),Biomedical Engineering,14,18,0,0,5,1,0,0,2,2,0,0,0,1,14,12,2,1,72
+203,2019,Enrollment,Arizona State University,Chemical Engineering (Ph.D.),Chemical Engineering,10,3,0,1,1,3,0,0,1,2,0,0,0,0,6,3,1,0,31
+204,2019,Enrollment,Arizona State University,Civil and Environmental Engineering (Civil) (Ph.D.),Civil Engineering,26,11,1,0,0,3,0,0,0,1,1,0,0,0,3,2,1,0,49
+205,2019,Enrollment,Arizona State University,Civil and Environmental Engineering (Env.) (Ph.D.),Environmental Engineering,21,10,1,0,3,3,0,0,0,2,0,0,0,0,3,9,0,0,52
+206,2019,Enrollment,Arizona State University,Computer Engineering (Ph.D.),Computer Engineering,53,14,1,0,0,0,0,0,1,0,0,0,0,0,6,0,0,0,75
+207,2019,Enrollment,Arizona State University,Computer Science (Ph.D.),Computer Science (inside engineering),88,31,1,0,3,0,0,0,0,2,1,0,0,0,17,4,2,0,149
+208,2019,Enrollment,Arizona State University,Construction Management (Ph.D.),Construction Engineering Technology,4,2,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,9
+209,2019,Enrollment,Arizona State University,Electrical Engineering (Ph.D.),Electrical Engineering,172,29,0,0,9,0,0,0,2,3,1,0,0,0,31,3,2,0,252
+210,2019,Enrollment,Arizona State University,Engineering Education Systems and Design (Ph.D.),Other Engineering Disciplines,5,2,0,0,0,2,0,1,0,1,1,1,0,0,1,1,0,0,15
+211,2019,Enrollment,Arizona State University,Human Systems Engineering (Ph.D.),Other Eng. Technology Disciplines,2,1,0,0,1,1,0,0,0,0,0,0,0,0,6,5,0,2,18
+212,2019,Enrollment,Arizona State University,Industrial Engineering (Ph.D.),Industrial/Manufacturing/Systems Engineering,26,9,0,0,1,1,0,0,0,0,0,0,0,0,2,2,0,0,41
+213,2019,Enrollment,Arizona State University,Materials Science and Engineering (Ph.D.),Metallurgical and Matrls. Engineering,44,9,0,0,4,0,0,0,3,2,0,0,0,0,12,4,1,0,79
+214,2019,Enrollment,Arizona State University,Mechanical Engineering (Ph.D.),Mechanical Engineering,67,9,0,0,2,0,1,0,2,0,0,0,0,0,8,1,1,0,91
+215,2019,Enrollment,Arizona State University,Systems Engineering (Ph.D.),Engineering (General),16,4,0,0,2,0,0,0,0,0,2,0,0,0,7,4,2,0,37
+216,2019,Enrollment,Arkansas Tech University,Computer Engineering (BS),Electrical Engineering,0,0,0,0,2,0,0,0,1,1,2,0,0,0,32,3,3,0,44
+217,2019,Enrollment,Arkansas Tech University,Computer Science (BS),Computer Science (inside engineering),12,1,0,0,16,3,0,0,8,1,3,1,0,0,78,8,7,1,139
+218,2019,Enrollment,Arkansas Tech University,Cybersecurity (BS),Computer Science (inside engineering),3,2,0,0,5,3,0,0,2,0,1,0,1,0,59,9,7,1,93
+219,2019,Enrollment,Arkansas Tech University,Electrical Engineering (BS),Electrical Engineering,12,2,0,0,15,3,1,0,3,0,6,2,0,0,79,8,9,1,141
+220,2019,Enrollment,Arkansas Tech University,Mechanical Engineering (BS),Mechanical Engineering,37,1,0,0,19,0,2,0,3,2,10,3,0,0,178,20,19,1,295
+221,2019,Enrollment,Arkansas Tech University,Masters of Engineering - Electrical,Electrical Engineering,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4
+222,2019,Enrollment,Arkansas Tech University,Masters of Engineering - Mechanical,Electrical Engineering,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+223,2020,Enrollment,Abilene Christian University,Computer Engineering (B.S.),Other Engineering Disciplines,0,0,2,0,0,0,0,0,2,0,57,16,0,0,3,0,0,0,80
+224,2020,Enrollment,Abilene Christian University,Computer Science (B.S.),Other Engineering Disciplines,0,0,4,0,0,0,0,0,0,0,89,34,0,0,3,1,0,0,131
+225,2020,Enrollment,Abilene Christian University,Economics (B.S.),Other Engineering Disciplines,0,0,0,0,0,0,0,0,0,0,4,0,0,0,1,0,0,0,5
+226,2020,Enrollment,Abilene Christian University,Electrical and Electronics Engineering Technology,Other Eng. Technology Disciplines,0,0,5,0,0,0,0,0,0,0,45,7,0,0,2,0,0,0,59
+227,2020,Enrollment,Abilene Christian University,Information and Logistics Technology,Other Eng. Technology Disciplines,0,0,3,0,0,0,0,0,0,0,31,13,0,0,0,0,0,0,47
+228,2020,Enrollment,Abilene Christian University,Manufacturing Engineering (B.S.),Other Engineering Disciplines,0,0,3,0,0,0,0,0,1,1,28,3,0,0,3,0,0,0,39
+229,2020,Enrollment,Abilene Christian University,Mathematics (B.S.),Other Engineering Disciplines,0,0,0,0,0,0,0,0,1,0,6,19,0,0,1,3,0,0,30
+230,2020,Enrollment,Abilene Christian University,Mechanical Engineering Technology,Other Eng. Technology Disciplines,0,0,13,0,1,0,0,0,1,0,68,26,0,0,6,0,0,0,115
+231,2020,Enrollment,Air Force Institute of Technology,Acquisition and Program Management (M.S),Other Engineering Disciplines,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+232,2020,Enrollment,Air Force Institute of Technology,Aeronautical Engineering (M.S),Aerospace Engineering,0,0,2,0,1,1,0,0,5,0,0,0,0,0,30,1,0,0,40
+233,2020,Enrollment,Air Force Institute of Technology,Applied Mathematics (M.S),Other Engineering Disciplines,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3,0,0,0,4
+234,2020,Enrollment,Air Force Institute of Technology,Applied Physics (M.S),Engr. Science and Engr. Physics,0,0,2,0,2,1,0,0,1,0,0,0,0,0,16,2,0,0,24
+235,2020,Enrollment,Air Force Institute of Technology,Applied Systems Engineering (M.E),Industrial/Manufacturing/Systems Engineering,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+236,2020,Enrollment,Air Force Institute of Technology,Astronautical Engineering (M.S),Aerospace Engineering,0,0,2,0,0,0,0,0,2,0,1,1,0,0,11,1,1,0,19
+237,2020,Enrollment,Air Force Institute of Technology,Atmospheric Sciences (M.S),Engr. Science and Engr. Physics,0,0,0,0,1,0,0,0,1,0,0,0,0,0,3,1,0,0,6
+238,2020,Enrollment,Air Force Institute of Technology,Computer Engineering (M.S),Computer Engineering,0,0,2,0,1,0,0,0,0,0,0,0,0,0,10,0,0,0,13
+239,2020,Enrollment,Air Force Institute of Technology,Computer Science (M.S),Computer Science (inside engineering),0,0,4,0,1,0,0,0,3,0,2,0,0,0,18,2,1,0,31
+240,2020,Enrollment,Air Force Institute of Technology,Cost Analysis (M.S),Other Engineering Disciplines,0,0,0,0,1,0,0,0,3,2,1,0,1,0,11,1,0,0,20
+241,2020,Enrollment,Air Force Institute of Technology,Cyber Operations (M.S),Computer Science (inside engineering),0,0,0,0,1,1,0,0,3,1,0,0,0,0,11,2,0,0,19
+242,2020,Enrollment,Air Force Institute of Technology,Electrical Engineering (M.S),Electrical Engineering,2,0,2,1,4,0,0,0,6,0,4,1,0,0,42,4,2,0,68
+243,2020,Enrollment,Air Force Institute of Technology,Engineering Management (M.S),Engineering Management,1,0,3,0,1,1,0,0,0,1,3,0,0,0,35,8,2,1,56
+244,2020,Enrollment,Air Force Institute of Technology,Environmental Engineering and Science (M.S),Environmental Engineering,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,1,0,0,9
+245,2020,Enrollment,Air Force Institute of Technology,Industrial Hygiene (M.S),Other Engineering Disciplines,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,3
+246,2020,Enrollment,Air Force Institute of Technology,Logistics (M.S.),Other Engineering Disciplines,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+247,2020,Enrollment,Air Force Institute of Technology,Logistics and Supply Chain Management (M.S.),Other Engineering Disciplines,0,0,1,0,2,1,0,0,0,0,3,1,0,0,9,1,1,0,19
+248,2020,Enrollment,Air Force Institute of Technology,Materials Science (M.S),Aerospace Engineering,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,2
+249,2020,Enrollment,Air Force Institute of Technology,Nuclear Engineering (M.S),Nuclear Engineering,0,0,4,0,0,0,0,0,0,0,0,0,0,0,14,0,2,0,20
+250,2020,Enrollment,Air Force Institute of Technology,Operations Management (M.S),Other Engineering Disciplines,0,0,2,0,1,0,0,0,0,0,2,0,0,0,11,0,0,0,16
+251,2020,Enrollment,Air Force Institute of Technology,Operations Research (M.S),Other Engineering Disciplines,0,0,2,2,8,1,1,0,2,1,5,0,0,1,30,7,5,0,65
+252,2020,Enrollment,Air Force Institute of Technology,Optical Science and Engineering (M.S),Engr. Science and Engr. Physics,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,2
+253,2020,Enrollment,Air Force Institute of Technology,Scientific and Technical Intelligence (M.S),Other Engineering Disciplines,0,0,0,0,1,0,0,0,0,0,0,0,0,0,4,0,1,1,7
+254,2020,Enrollment,Air Force Institute of Technology,Space Systems (M.S),Aerospace Engineering,0,0,3,0,0,0,0,0,1,0,0,1,0,0,7,2,0,0,14
+255,2020,Enrollment,Air Force Institute of Technology,Systems Engineering (M.S),Industrial/Manufacturing/Systems Engineering,1,0,0,0,1,0,0,0,1,1,1,0,0,0,23,4,2,2,36
+256,2020,Enrollment,Air Force Institute of Technology,Aeronautical Engineering (Ph.D.),Aerospace Engineering,0,0,1,0,1,0,0,0,0,0,0,0,0,0,10,1,0,0,13
+257,2020,Enrollment,Air Force Institute of Technology,Applied Mathematics (Ph.D.),Other Engineering Disciplines,0,0,1,0,2,0,0,0,1,0,0,0,0,0,7,2,0,0,13
+258,2020,Enrollment,Air Force Institute of Technology,Applied Physics (Ph.D.),Engr. Science and Engr. Physics,0,0,1,0,2,0,0,0,0,0,0,0,0,0,7,3,0,1,14
+259,2020,Enrollment,Air Force Institute of Technology,Astronautical Engineering (Ph.D.),Aerospace Engineering,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,1,0,0,8
+260,2020,Enrollment,Air Force Institute of Technology,Computer Engineering (Ph.D.),Computer Engineering,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,3
+261,2020,Enrollment,Air Force Institute of Technology,Computer Science (Ph.D.),Computer Science (inside engineering),0,0,1,0,1,0,0,0,1,0,0,0,0,0,5,1,0,0,9
+262,2020,Enrollment,Air Force Institute of Technology,Electrical Engineering (Ph.D.),Electrical Engineering,0,0,3,0,0,0,0,0,2,0,0,0,0,0,12,0,2,1,20
+263,2020,Enrollment,Air Force Institute of Technology,Logistics (Ph.D.),Other Engineering Disciplines,0,0,2,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,5
+264,2020,Enrollment,Air Force Institute of Technology,Materials Science (Ph.D.),Aerospace Engineering,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2
+265,2020,Enrollment,Air Force Institute of Technology,Nuclear Engineering (Ph.D.),Nuclear Engineering,0,0,0,0,1,0,0,0,1,0,1,0,0,0,9,1,0,0,13
+266,2020,Enrollment,Air Force Institute of Technology,Operations Research (Ph.D.),Other Engineering Disciplines,1,0,0,0,1,0,0,0,0,0,1,0,0,0,13,1,0,0,17
+267,2020,Enrollment,Air Force Institute of Technology,Optical Science and Engineering (Ph.D.),Engr. Science and Engr. Physics,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,2
+268,2020,Enrollment,Air Force Institute of Technology,Space Systems (Ph.D.),Aerospace Engineering,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,2
+269,2020,Enrollment,Air Force Institute of Technology,Systems Engineering (Ph.D.),Industrial/Manufacturing/Systems Engineering,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,2,0,0,7
+270,2020,Enrollment,"Alfred University, NY State College of Ceramics",Biomaterials Engineering (B.S.),Biomedical Engineering,0,0,0,2,1,1,0,0,0,0,0,1,0,0,14,13,0,0,32
+271,2020,Enrollment,"Alfred University, NY State College of Ceramics",Ceramic Engineering (B.S.),Metallurgical and Matrls. Engineering,0,0,2,0,2,0,0,0,0,0,0,0,0,0,26,14,0,1,45
+272,2020,Enrollment,"Alfred University, NY State College of Ceramics",Glass Engineering Science (B.S.),Metallurgical and Matrls. Engineering,0,0,0,0,1,1,0,0,1,0,0,1,0,0,9,5,1,0,19
+273,2020,Enrollment,"Alfred University, NY State College of Ceramics",Materials Science & Engineering (B.S.),Metallurgical and Matrls. Engineering,2,0,4,1,0,1,0,0,0,0,1,0,0,0,24,6,0,0,39
+274,2020,Enrollment,"Alfred University, NY State College of Ceramics",Mechanical Engineering (B.S.),Mechanical Engineering,43,3,9,1,5,0,0,0,3,0,10,1,1,0,81,12,0,0,169
+275,2020,Enrollment,"Alfred University, NY State College of Ceramics",Renewable Energy Engineering (B.S.),Other Engineering Disciplines,28,1,2,0,0,1,0,0,0,0,1,0,0,0,6,3,0,0,42
+276,2020,Enrollment,"Alfred University, NY State College of Ceramics",Undeclared,Other Engineering Disciplines,0,0,3,0,1,0,0,0,1,0,3,1,1,0,20,4,0,0,34
+277,2020,Enrollment,"Alfred University, NY State College of Ceramics",Biomaterials Engineering (M.S.),Biomedical Engineering,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+278,2020,Enrollment,"Alfred University, NY State College of Ceramics",Ceramic Engineering (M.S.),Metallurgical and Matrls. Engineering,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2
+279,2020,Enrollment,"Alfred University, NY State College of Ceramics",Electrical Engineering (M.S.),Electrical Engineering,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+280,2020,Enrollment,"Alfred University, NY State College of Ceramics",Glass Science (M.S.),Metallurgical and Matrls. Engineering,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+281,2020,Enrollment,"Alfred University, NY State College of Ceramics",Materials Science & Engineering (M.S.),Metallurgical and Matrls. Engineering,1,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,7
+282,2020,Enrollment,"Alfred University, NY State College of Ceramics",Mechanical Engineering (M.S.),Mechanical Engineering,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+283,2020,Enrollment,"Alfred University, NY State College of Ceramics",Ceramics (Ph.D.),Metallurgical and Matrls. Engineering,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,3
+284,2020,Enrollment,"Alfred University, NY State College of Ceramics",Glass Science (Ph.D.),Metallurgical and Matrls. Engineering,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,4
+285,2020,Enrollment,"Alfred University, NY State College of Ceramics",Materials Science & Engineering (Ph.D),Metallurgical and Matrls. Engineering,2,3,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,9
+286,2020,Enrollment,Arizona State University,"Aeronautical Management Technology (B.S., B.A.S.)",Aerospace Engineering Technology,30,2,4,0,76,16,2,2,18,6,22,2,3,1,215,36,29,6,470
+287,2020,Enrollment,Arizona State University,Aerospace Engineering (B.S.E.),Aerospace Engineering,47,5,8,5,163,34,6,2,68,15,16,2,0,1,353,54,27,4,810
+288,2020,Enrollment,Arizona State University,Biomedical Engineering (B.S.E.),Biomedical Engineering,10,13,9,4,78,81,1,3,46,50,10,17,2,1,124,140,19,17,625
+289,2020,Enrollment,Arizona State University,Chemical Engineering (B.S.E.),Chemical Engineering,47,7,6,3,59,42,2,0,29,35,8,12,0,0,182,88,14,12,546
+290,2020,Enrollment,Arizona State University,Civil Engineering (B.S.E.),Civil/Environmental Engineering,40,8,7,2,122,44,8,1,15,9,17,6,0,2,173,67,10,3,534
+291,2020,Enrollment,Arizona State University,Computer Science (B.S.),Computer Science (inside engineering),367,65,60,6,432,87,11,3,551,154,67,20,3,1,956,168,122,39,3112
+292,2020,Enrollment,Arizona State University,Computer Systems Engineering (B.S.E.),Computer Engineering,26,5,9,2,78,10,1,0,43,14,8,5,0,0,154,11,15,4,385
+293,2020,Enrollment,Arizona State University,Construction Engineering (B.S.E.),Civil Engineering,7,0,1,1,23,7,1,1,0,3,1,0,0,0,22,4,1,1,73
+294,2020,Enrollment,Arizona State University,Construction Management and Technology (B.S.),Construction Engineering Technology,4,1,4,0,108,20,9,2,12,1,7,0,0,0,212,17,15,1,413
+295,2020,Enrollment,Arizona State University,Electrical Engineering (B.S.E.),Electrical Engineering,80,9,16,4,213,32,11,3,87,19,32,3,4,0,480,83,20,14,1110
+296,2020,Enrollment,Arizona State University,Engineering (B.S.E.),Engineering (General),49,4,7,1,189,46,10,3,45,9,27,5,3,1,332,40,21,5,797
+297,2020,Enrollment,Arizona State University,Engineering Management (B.S.E.),Industrial/Manufacturing/Systems Engineering,14,4,1,0,36,16,2,0,11,8,3,3,1,0,116,32,5,5,257
+298,2020,Enrollment,Arizona State University,Environmental & Resource Management (B.S.),Other Eng. Technology Disciplines,0,1,0,0,4,2,2,1,1,1,0,0,0,0,2,9,1,1,25
+299,2020,Enrollment,Arizona State University,Environmental Engineering (B.S.E.),Environmental Engineering,7,3,3,0,16,24,0,4,6,6,1,0,0,0,25,56,4,4,159
+300,2020,Enrollment,Arizona State University,"Graphic Information Technology (B.S., B.A.S.)",Computer Engineering Technology,7,3,4,8,80,83,3,6,23,30,17,22,0,1,167,224,14,23,715
+301,2020,Enrollment,Arizona State University,Human Systems Engineering (B.S.),Other Eng. Technology Disciplines,0,0,1,1,12,7,1,1,3,4,5,2,0,0,13,18,4,0,72
+302,2020,Enrollment,Arizona State University,Industrial Engineering (B.S.E.),Industrial/Manufacturing/Systems Engineering,56,14,1,4,27,18,0,0,21,8,3,1,0,0,53,25,5,4,240
+303,2020,Enrollment,Arizona State University,Informatics (B.S.),Computer Science (inside engineering),6,2,0,0,16,5,0,1,18,4,5,3,0,0,37,12,5,5,119
+304,2020,Enrollment,Arizona State University,Information Technology (B.S.),Computer Engineering Technology,22,2,17,4,138,33,12,3,79,20,78,23,1,0,428,93,37,9,999
+305,2020,Enrollment,Arizona State University,Manufacturing Engineering (B.S.),Industrial/Manufacturing/Systems Engineering,1,0,0,0,5,0,0,0,3,0,3,1,1,0,19,0,3,0,36
+306,2020,Enrollment,Arizona State University,Materials Science and Engineering (B.S.E.),Metallurgical and Matrls. Engineering,8,2,1,0,14,11,2,0,13,7,3,3,0,0,49,14,3,3,133
+307,2020,Enrollment,Arizona State University,Mechanical Engineering (B.S.E.),Mechanical Engineering,126,8,19,3,271,50,10,3,86,30,27,4,1,1,574,100,54,13,1380
+308,2020,Enrollment,Arizona State University,Software Engineering (B.S.),Computer Science (inside engineering),11,5,14,2,87,24,8,0,43,7,18,7,1,0,289,68,24,9,617
+309,2020,Enrollment,Arizona State University,"Technological Entrepreneurship & Management (B.S., B.A.S.)",Industrial/Manufacturing Eng. Tech.,5,1,3,3,31,10,1,1,10,8,7,7,1,0,76,24,13,6,207
+310,2020,Enrollment,Arizona State University,Aeronautical Management Technology (M.S. Tech.),Aerospace Engineering Technology,2,3,0,0,0,0,0,0,0,0,0,0,0,0,7,2,1,0,15
+311,2020,Enrollment,Arizona State University,Aerospace Engineering (M.S.),Aerospace Engineering,13,4,0,0,4,0,0,0,3,1,0,0,0,0,17,4,1,0,47
+312,2020,Enrollment,Arizona State University,Biomedical Engineering (M.S.),Biomedical Engineering,7,8,0,0,2,8,0,0,2,3,0,1,0,0,15,7,0,0,53
+313,2020,Enrollment,Arizona State University,Chemical Engineering (M.S.),Chemical Engineering,20,0,0,0,3,0,0,0,0,3,0,0,0,0,9,1,0,0,36
+314,2020,Enrollment,Arizona State University,"Civil, Environmental and Sustainable Engineering (Civil) (M.S., M.S.E.)",Civil Engineering,16,3,0,0,0,0,0,0,2,0,0,0,0,0,10,1,0,1,33
+315,2020,Enrollment,Arizona State University,"Civil, Environmental and Sustainable Engineering (Env.) (M.S., M.S.E.)",Environmental Engineering,6,4,0,0,1,2,0,1,2,1,0,0,0,0,6,5,1,0,29
+316,2020,Enrollment,Arizona State University,Computer Engineering (M.S.),Computer Engineering,99,46,1,0,4,0,0,0,2,0,0,0,0,0,10,1,1,0,164
+317,2020,Enrollment,Arizona State University,"Computer Science (M.S., M.C.S.)",Computer Science (inside engineering),354,129,3,0,11,2,0,1,33,9,7,1,1,0,53,7,3,2,616
+318,2020,Enrollment,Arizona State University,Construction Engineering (M.S.E.),Civil Engineering,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+319,2020,Enrollment,Arizona State University,Construction Management and Technology (M.S.),Construction Engineering Technology,22,16,1,1,4,1,0,1,3,0,1,0,0,0,13,4,0,1,68
+320,2020,Enrollment,Arizona State University,"Electrical Engineering (M.S., M.S.E.)",Electrical Engineering,105,33,1,0,6,2,0,0,5,2,1,0,0,0,27,4,2,1,189
+321,2020,Enrollment,Arizona State University,"Engineering (M.Eng., M.S.)",Engineering (General),6,1,0,0,5,3,0,1,4,1,3,0,0,0,15,1,1,0,41
+322,2020,Enrollment,Arizona State University,Engineering Science ( M.S.E.),Other Engineering Disciplines,0,1,0,0,1,0,0,0,2,0,0,0,0,0,3,1,0,0,8
+323,2020,Enrollment,Arizona State University,Environmental and Resource Management,Other Eng. Technology Disciplines,4,3,0,0,1,1,0,1,0,2,0,0,0,0,6,11,2,0,31
+324,2020,Enrollment,Arizona State University,Graphic Information technology (M.S.),Computer Engineering Technology,0,0,0,0,1,3,0,0,0,4,0,0,0,0,4,12,0,2,26
+325,2020,Enrollment,Arizona State University,Human Systems Engineering (M.S.),Other Eng. Technology Disciplines,1,5,1,0,3,1,0,0,1,0,0,1,0,0,4,4,1,0,22
+326,2020,Enrollment,Arizona State University,Industrial Engineering (M.S.),Industrial/Manufacturing/Systems Engineering,36,5,0,0,3,0,0,0,1,1,0,0,0,0,7,5,1,0,59
+327,2020,Enrollment,Arizona State University,Information Technology (M.S.),Computer Engineering Technology,31,13,1,0,3,1,1,2,6,0,1,0,0,0,9,3,0,0,71
+328,2020,Enrollment,Arizona State University,Manufacturing Engineering (M.S.),Industrial/Manufacturing/Systems Engineering,9,0,0,0,0,0,0,0,0,1,0,0,0,0,5,0,0,0,15
+329,2020,Enrollment,Arizona State University,Materials Science and Engineering (M.S.),Metallurgical and Matrls. Engineering,22,10,0,0,0,1,0,0,1,2,1,0,0,0,6,3,0,0,46
+330,2020,Enrollment,Arizona State University,Mechanical Engineering (M.S.),Mechanical Engineering,83,10,0,0,12,1,0,1,3,2,0,0,0,0,29,3,1,0,145
+331,2020,Enrollment,Arizona State University,Modern Energy Production and Sustainable Use (M.S.),Other Engineering Disciplines,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+332,2020,Enrollment,Arizona State University,"Robotics & Autonomous Systems (Artificial Intellignece), MS",Other Engineering Disciplines,33,6,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,41
+333,2020,Enrollment,Arizona State University,"Robotics & Autonomous Systems (Electrical Engineering), MS",Other Engineering Disciplines,7,5,0,0,1,0,0,0,1,0,0,0,0,0,1,0,1,0,16
+334,2020,Enrollment,Arizona State University,"Robotics & Autonomous Systems (Mechanical and Aerospace Engineering), MS",Other Engineering Disciplines,24,1,0,0,0,0,0,0,0,0,0,0,0,0,6,1,1,0,33
+335,2020,Enrollment,Arizona State University,"Robotics & Autonomous Systems (Systems Engineering), MS",Other Engineering Disciplines,3,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,5
+336,2020,Enrollment,Arizona State University,Software Engineering (M.S.),Computer Science (inside engineering),93,28,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,0,125
+337,2020,Enrollment,Arizona State University,Solar Energy Engineering & Commercialization (P.S.M.),Mechanical Engineering,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,3
+338,2020,Enrollment,Arizona State University,Sustainable Engineering (M.S.E.),Civil/Environmental Engineering,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+339,2020,Enrollment,Arizona State University,Technological Entrepreneurship & Management (M.S. Tech.),Industrial/Manufacturing Eng. Tech.,4,1,0,0,0,0,0,1,0,0,0,0,0,0,2,1,0,0,9
+340,2020,Enrollment,Arizona State University,User Experience,Other Eng. Technology Disciplines,4,2,0,0,1,5,0,0,0,5,0,0,0,0,3,3,1,0,24
+341,2020,Enrollment,Arizona State University,Aerospace Engineering (Ph.D.),Aerospace Engineering,7,0,0,0,0,0,0,0,1,0,0,0,0,0,3,1,0,0,12
+342,2020,Enrollment,Arizona State University,Biological Design,Other Engineering Disciplines,2,2,0,1,1,1,0,0,1,0,0,0,0,1,6,8,0,0,23
+343,2020,Enrollment,Arizona State University,Biomedical Engineering (Ph.D.),Biomedical Engineering,12,11,0,0,3,0,0,0,2,3,0,0,0,0,4,6,2,0,43
+344,2020,Enrollment,Arizona State University,Chemical Engineering (Ph.D.),Chemical Engineering,13,5,1,1,1,2,0,0,0,3,0,0,0,0,9,4,1,0,40
+345,2020,Enrollment,Arizona State University,Civil and Environmental Engineering (Civil) (Ph.D.),Civil Engineering,17,14,1,0,0,1,0,0,0,0,1,0,0,0,3,3,0,0,40
+346,2020,Enrollment,Arizona State University,Civil and Environmental Engineering (Env.) (Ph.D.),Environmental Engineering,24,11,0,0,1,5,0,0,0,1,0,0,0,0,2,10,0,0,54
+347,2020,Enrollment,Arizona State University,Computer Engineering (Ph.D.),Computer Engineering,45,10,1,0,0,0,0,0,2,0,0,0,0,0,8,1,0,0,67
+348,2020,Enrollment,Arizona State University,Computer Science (Ph.D.),Computer Science (inside engineering),83,32,1,0,3,0,0,0,2,2,0,0,0,0,19,6,4,0,152
+349,2020,Enrollment,Arizona State University,Construction Management (Ph.D.),Construction Engineering Technology,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,5
+350,2020,Enrollment,Arizona State University,Electrical Engineering (Ph.D.),Electrical Engineering,154,29,1,0,6,0,0,0,1,0,1,0,0,0,29,4,1,0,226
+351,2020,Enrollment,Arizona State University,Engineering Education Systems and Design (Ph.D.),Other Engineering Disciplines,5,2,0,0,0,2,0,1,0,2,1,1,0,0,1,2,0,0,17
+352,2020,Enrollment,Arizona State University,Human Systems Engineering (Ph.D.),Other Eng. Technology Disciplines,4,1,0,0,1,1,0,0,0,1,0,0,0,0,7,4,1,1,21
+353,2020,Enrollment,Arizona State University,Industrial Engineering (Ph.D.),Industrial/Manufacturing/Systems Engineering,17,8,0,0,1,1,0,0,0,0,0,0,0,0,5,1,0,0,33
+354,2020,Enrollment,Arizona State University,Materials Science and Engineering (Ph.D.),Metallurgical and Matrls. Engineering,25,8,0,0,5,0,0,0,2,2,0,0,0,0,12,3,2,0,59
+355,2020,Enrollment,Arizona State University,Mechanical Engineering (Ph.D.),Mechanical Engineering,64,4,0,0,2,0,0,0,2,0,0,0,0,0,12,1,1,0,86
+356,2020,Enrollment,Arizona State University,Systems Engineering (Ph.D.),Engineering (General),13,5,0,0,1,0,0,0,1,1,2,0,0,0,8,1,2,0,34
+357,2020,Enrollment,Arkansas Tech University,Computer Engineering (BS),Electrical Engineering,1,0,0,0,1,1,0,0,2,1,5,0,0,0,39,0,2,0,52
+358,2020,Enrollment,Arkansas Tech University,Computer Science (BS),Computer Science (inside engineering),7,0,0,0,12,0,1,0,8,0,5,2,1,0,76,13,3,1,129
+359,2020,Enrollment,Arkansas Tech University,Cybersecurity (BS),Computer Science (inside engineering),3,2,0,0,5,1,0,0,2,0,1,3,1,0,47,9,9,1,84
+360,2020,Enrollment,Arkansas Tech University,Electrical Engineering (BS),Electrical Engineering,4,1,0,0,11,3,1,0,0,0,7,2,0,0,72,10,6,1,118
+361,2020,Enrollment,Arkansas Tech University,Mechanical Engineering (BS),Mechanical Engineering,22,2,0,0,18,1,2,0,3,2,9,2,0,0,168,16,19,1,265
+362,2020,Enrollment,Arkansas Tech University,Masters of Engineering - Electrical,Electrical Engineering,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+363,2020,Enrollment,Arkansas Tech University,Masters of Engineering - Mechanical,Electrical Engineering,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
